@@ -1,0 +1,1 @@
+$('#rightUtilityBar, .featuresReminder, .ib-nola').hide();
